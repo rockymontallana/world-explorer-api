@@ -1,0 +1,13 @@
+package com.example.world_explorer_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WorldExplorerApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WorldExplorerApiApplication.class, args);
+	}
+
+}
